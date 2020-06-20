@@ -2,10 +2,10 @@
     font-family: 'Julius Sans One', sans-serif;
 }
 
-/* .bg-portfolio {
-    background-color: rgba(233, 170, 61, 0.904);
-} */
+.card-footer {
+    box-shadow: inset 0 0 20px #cd880f, 0 5px 8px -6px #17141F, 0 -4px 5px -6px #17141F;
+}
 
-.bg-portfolio {
-    background-color: #f0a727;
+.card-img {
+    box-shadow: 0 -4px 8px -6px #17141F;
 }
