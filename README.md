@@ -6,10 +6,10 @@ This is my portfolio page to showcase projects I've worked on throughout my codi
 ## Screenshots
 Some examples of how the site behaves at different breakpoints.
 ### 640px
-<img src="images/640-index.png" width="300" ><img src="images/640-portfolio.png" width="300" ><img src="images/640-contact.png" width="300" >
+<img src="assets/images/640-index.png" width="300" ><img src="assets/images/640-portfolio.png" width="300" ><img src="assets/images/640-contact.png" width="300" >
 
 ### 768px
-<img src="images/768-index.png" width="300" ><img src="images/768-portfolio.png" width="300" ><img src="images/768-contact.png" width="300" >
+<img src="assets/images/768-index.png" width="300" ><img src="assets/images/768-portfolio.png" width="300" ><img src="images/768-contact.png" width="300" >
 
 ### 980px
-<img src="images/980-index.png" width="300" ><img src="images/980-portfolio.png" width="300" ><img src="images/980-contact.png" width="300" >
+<img src="assets/images/980-index.png" width="300" ><img src="assets/images/980-portfolio.png" width="300" ><img src="assets/images/980-contact.png" width="300" >

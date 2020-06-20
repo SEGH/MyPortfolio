@@ -1,4 +1,3 @@
-#bio-image {
-    max-width: 200px;
-    height: auto;
+.navbar-brand {
+    font-family: 'Julius Sans One', sans-serif;
 }
